@@ -81,3 +81,4 @@ fuzzysearch
 img2pdf
 multicolorcaptcha
 loguru
+git+https://github.com/ytdl-org/youtube-dl
